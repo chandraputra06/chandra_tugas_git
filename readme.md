@@ -1,1 +1,1 @@
-Hello my name is Chandra, I am a programmer
+Hello my name is Chandra, I am a programmer. I am learning at timedoors.
