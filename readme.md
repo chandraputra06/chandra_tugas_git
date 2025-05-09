@@ -1,1 +1,1 @@
-Hello my name is Chandra, I am a programmer. I am learning at timedoors.
+Hello my name is Chandra, I am a programmer. I am learning at timedoors. My teacher is Mr Cahya
