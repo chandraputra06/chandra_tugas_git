@@ -1,1 +1,1 @@
-Hello my name is Chandra
+Hello my name is Chandra, I am a programmer
